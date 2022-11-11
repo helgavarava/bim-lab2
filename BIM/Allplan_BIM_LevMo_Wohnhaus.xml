@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levelmodel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" m_iColor="-1" Marked="false" ObjectGuid="c6d2b1cf-6f36-4ea0-b8b0-162c18bf4d6e" Expanded="true" UpperFloorsNaming="0" MaxReferenceID="0">
+  <Name>Residential building</Name>
+  <Foundation m_iColor="64" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+    <Name>Foundation</Name>
+    <FloorIndex>-2147483648</FloorIndex>
+    <BottomPlane m_iColor="64" Marked="false" ObjectGuid="00000003-0000-0000-0000-000000000000">
+      <Name>Bottom level of foundation</Name>
+      <HeightLevel>-3750</HeightLevel>
+    </BottomPlane>
+    <TopPlane m_iColor="64" Marked="false" ObjectGuid="00000004-0000-0000-0000-000000000000">
+      <Name>Top level of foundation</Name>
+      <HeightLevel>-3150</HeightLevel>
+    </TopPlane>
+    <ReferenceSurfaces />
+    <OffsetPlanes />
+    <SharedOffsetPlanes />
+  </Foundation>
+  <Building m_iColor="15" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+    <Name>Structure</Name>
+    <FloorIndex>0</FloorIndex>
+    <BottomPlane m_iColor="15" Marked="true" ObjectGuid="0000000b-0000-0000-0000-000000000000">
+      <Name>Bottom level of residential building</Name>
+      <HeightLevel>-3850</HeightLevel>
+    </BottomPlane>
+    <TopPlane m_iColor="15" Marked="false" ObjectGuid="0000000c-0000-0000-0000-000000000000">
+      <Name>Top level of residential building</Name>
+      <HeightLevel>8500</HeightLevel>
+    </TopPlane>
+    <ReferenceSurfaces />
+    <OffsetPlanes />
+    <SharedOffsetPlanes />
+  </Building>
+  <PlanePairs>
+    <Planepair m_iColor="1" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>TF</Name>
+      <FloorIndex>2</FloorIndex>
+      <BottomPlane m_iColor="1" Marked="false" ObjectGuid="00000009-0000-0000-0000-000000000000">
+        <Name>Bottom level of TF</Name>
+        <HeightLevel>5400</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="1" Marked="false" ObjectGuid="0000000a-0000-0000-0000-000000000000">
+        <Name>Top level of TF</Name>
+        <HeightLevel>8000</HeightLevel>
+      </TopPlane>
+      <ReferenceSurfaces />
+      <OffsetPlanes />
+      <SharedOffsetPlanes />
+    </Planepair>
+    <Planepair m_iColor="5" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>UF</Name>
+      <FloorIndex>1</FloorIndex>
+      <BottomPlane m_iColor="5" Marked="false" ObjectGuid="00000007-0000-0000-0000-000000000000">
+        <Name>Bottom level of UF</Name>
+        <HeightLevel>2600</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="5" Marked="false" ObjectGuid="00000008-0000-0000-0000-000000000000">
+        <Name>Top level of UF</Name>
+        <HeightLevel>5200</HeightLevel>
+      </TopPlane>
+      <ReferenceSurfaces />
+      <OffsetPlanes />
+      <SharedOffsetPlanes />
+    </Planepair>
+    <Planepair m_iColor="6" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>GF</Name>
+      <FloorIndex>0</FloorIndex>
+      <BottomPlane m_iColor="6" Marked="false" ObjectGuid="00000005-0000-0000-0000-000000000000">
+        <Name>Bottom level of GF</Name>
+        <HeightLevel>-200</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="6" Marked="false" ObjectGuid="00000006-0000-0000-0000-000000000000">
+        <Name>Top level of GF</Name>
+        <HeightLevel>2400</HeightLevel>
+      </TopPlane>
+      <ReferenceSurfaces />
+      <OffsetPlanes />
+      <SharedOffsetPlanes />
+    </Planepair>
+    <Planepair m_iColor="7" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>Basement</Name>
+      <FloorIndex>-1</FloorIndex>
+      <BottomPlane m_iColor="7" Marked="false" ObjectGuid="00000001-0000-0000-0000-000000000000">
+        <Name>Bottom level of basement</Name>
+        <HeightLevel>-3000</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="7" Marked="false" ObjectGuid="00000002-0000-0000-0000-000000000000">
+        <Name>Top level of basement</Name>
+        <HeightLevel>-400</HeightLevel>
+      </TopPlane>
+      <ReferenceSurfaces />
+      <OffsetPlanes />
+      <SharedOffsetPlanes />
+    </Planepair>
+  </PlanePairs>
+  <OffsetPlanes />
+</Levelmodel>

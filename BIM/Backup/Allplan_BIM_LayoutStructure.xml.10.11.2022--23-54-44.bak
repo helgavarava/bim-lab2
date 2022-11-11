@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekLayoutStructure xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NodeID="54315dcd-f944-48b0-9aa0-3cb108c3b333" VersionID="325ADB67-B049-4781-A41A-877EADA7D218">
+  <LayoutStructureNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <LayoutStructureNode Name="Design layouts" NodeID="88145a13-ab0b-447d-9c08-7ba0db440dbd">
+      <Files>
+        <Layouts>
+          <Layout ID="1" />
+          <Layout ID="2" />
+          <Layout ID="3" />
+          <Layout ID="4" />
+          <Layout ID="5" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Building layouts" NodeID="9f165af3-f91a-412d-a082-fb48202554e0">
+      <Files>
+        <Layouts>
+          <Layout ID="11" />
+          <Layout ID="12" />
+          <Layout ID="13" />
+          <Layout ID="14" />
+          <Layout ID="15" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Presentation layouts" NodeID="3b0263ec-27b7-445c-92ee-c36d2bb26012">
+      <Files>
+        <Layouts>
+          <Layout ID="21" />
+          <Layout ID="22" />
+          <Layout ID="23" />
+          <Layout ID="24" />
+          <Layout ID="25" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Working layouts" NodeID="d78e5661-a76b-4978-a52b-1194036cad9c">
+      <Files>
+        <Layouts>
+          <Layout ID="31" />
+          <Layout ID="32" />
+          <Layout ID="33" />
+          <Layout ID="34" />
+          <Layout ID="35" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Layouts for client" NodeID="8439d2e6-47b2-4ce9-88ec-810c72008fd3">
+      <Files>
+        <Links>
+          <Link ID="1" Name="Linked with layout 1" />
+          <Link ID="2" Name="Linked with layout 2" />
+          <Link ID="3" Name="Linked with layout 3" />
+          <Link ID="4" Name="Linked with layout 4" />
+          <Link ID="5" Name="Linked with layout 5" />
+          <Link ID="11" Name="Linked with layout 11" />
+          <Link ID="12" Name="Linked with layout 12" />
+          <Link ID="13" Name="Linked with layout 13" />
+          <Link ID="14" Name="Linked with layout 14" />
+          <Link ID="15" Name="Linked with layout 15" />
+        </Links>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Layouts for building contractor" NodeID="c6ea0ce9-1292-4478-a9f9-a58f04180ea3">
+      <Files>
+        <Links>
+          <Link ID="31" Name="Linked with layout 31" />
+          <Link ID="32" Name="Linked with layout 32" />
+          <Link ID="33" Name="Linked with layout 33" />
+          <Link ID="34" Name="Linked with layout 34" />
+          <Link ID="35" Name="Linked with layout 35" />
+        </Links>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+  </LayoutStructureNodes>
+</NemetschekLayoutStructure>
